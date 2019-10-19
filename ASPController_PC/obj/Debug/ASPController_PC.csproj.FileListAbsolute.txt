@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.Form1.resources
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.Properties.Resources.resources
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\bin\Debug\ASPController_PC.exe.config
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\bin\Debug\ASPController_PC.exe
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\bin\Debug\ASPController_PC.pdb
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.csproj.CopyComplete
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.exe
+C:\Users\admin\source\repos\ASPController_PC\ASPController_PC\obj\Debug\ASPController_PC.pdb
